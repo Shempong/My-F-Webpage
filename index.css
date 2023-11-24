@@ -184,6 +184,11 @@ img{
 .log-in{
     background: var(--yellow);
 }
+
+.CV{
+    background: var(--yellow);
+}
+
 @media(max-width: 400px){
     .sidenav{
         width: 100vw;
