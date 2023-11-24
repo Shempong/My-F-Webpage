@@ -13,6 +13,6 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 function downloadCV() {
-    var cvLink = "https://drive.google.com/file/d/1PlojEmU70Idjg0-Brc9JjL2mn00fpkf_/view?usp=drivesdk";
+    var cvLink = "https://drive.google.com/file/d/1Q-DEKq8hsJsSKbAVU6UaHR0KEIiczvN7/view?usp=drivesdk";
     window.open(cvLink, '_blank');
   }
