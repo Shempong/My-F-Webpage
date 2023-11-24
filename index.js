@@ -11,3 +11,8 @@ document.addEventListener("DOMContentLoaded", function () {
         sidenav.classList.remove("show");
     });
 });
+
+function downloadCV() {
+    var cvLink = "https://drive.google.com/file/d/1PL7-5RmjRfFGG3SM2Qvlzwal02dYebsg/view";
+    window.open(cvLink, '_blank');
+  }
